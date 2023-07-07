@@ -11,6 +11,9 @@ urlFragment: php-docs-hello-world
 # PHP Hello World
 
 This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+## What I did with this code  
+- I use azure cli commands to push this code to azure
+- i.e. deployed this code to azure using its Https from the code
 
 ## Contributing
 
